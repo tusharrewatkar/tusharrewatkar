@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tushar Rewatkar</h1>
 <h4 align="center">Pursuing a joint Master's degree from Deggendorf Institute of Technology in Germany and University of South Bohemia in the Czech Republic, specializing in the field of AI and Data Science.</h4>
-<img align="right" alt="Coding" width="200" src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e47denucdtqmyobevqu4zxyncn9z2677z598x174ad8&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="270" src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e47denucdtqmyobevqu4zxyncn9z2677z598x174ad8&rid=giphy.gif&ct=g">
 
 
 - 🌱 I’m currently learning **NLP(spaCy, NLTK, OpenNLP, Gensim, CoreNLP, BERT Model)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tusharrewatkar](https://github.com/tusharrewatkar)
 
-- 💬 Ask me about **Machine Learning, Deep learning Algorithms,Statistics,Mathematics behind Algorithms**
+- 💬 Ask me about **Machine Learning, Deep learning, Statistics, Mathematics behind Algorithms**
 
 - 📫 How to reach me **tusharrewatkar1111@gmail.com**
 
